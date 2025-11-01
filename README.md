@@ -16,7 +16,7 @@
 ### Задание 2
 
 
-
+![alt text]([http://url/to/img.png](https://github.com/slav1power/sys-pattern-homework/blob/main/img/1.jpg))
 
 
 
