@@ -23,13 +23,13 @@
 
 ### Задание 3
 
-
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/2.jpg)
 
 
 
 ### Задание 4
 
-
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/3.jpg)
 
 
 
