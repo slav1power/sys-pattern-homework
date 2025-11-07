@@ -1,14 +1,10 @@
-# Домашнее задание к занятию "`Кеширование Redis/memcached`" - `Уляшев Дмитрий`
+# Домашнее задание к занятию "`ELK`" - `Уляшев Дмитрий`
 
 
 
 ### Задание 1
 
-1 `Поблемы производительности - кэширование позволяет экономить ресурсы БД заранее подгружая часто используемые данные`
-
-2 `Проблема масштабируемости - кэширование помогает снизить ограничения пропускной способности БД и лимиты запросов к внешним API`
-
-3 `Бизнес проблемы - кэширование помогает снизить стоимость инфраструктуры и стоимость масштабирования проектов`
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/11.jpg)
 
 
 
@@ -16,20 +12,20 @@
 ### Задание 2
 
 
-![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/1.jpg)
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/22.jpg)
 
 
 
 
 ### Задание 3
 
-![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/2.jpg)
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/33.jpg)
 
 
 
 ### Задание 4
 
-![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/3.jpg)
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/4.jpg)
 
 
 
