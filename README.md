@@ -4,9 +4,13 @@
 
 ### Задание 1
 
-1.3 ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/1.jpg)
-1.5 ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/2.jpg)
-1.8 ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/3.jpg)
+1.3     ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/1.jpg)
+
+
+1.5     ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/2.jpg)
+
+
+1.8     ![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/3.jpg)
 
 ```
 CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'logpass';
