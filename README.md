@@ -22,7 +22,7 @@
 ### Задание 2
 
 
-![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/slave.jpg)
+![alt text](https://github.com/slav1power/sys-pattern-homework/blob/main/img/shard.jpg)
 
 
 
