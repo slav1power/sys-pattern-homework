@@ -95,6 +95,12 @@ Service Info: Hosts:  metasploitable.localdomain, irc.Metasploitable.LAN; OSs: U
 - SYN - быстро и точно показывает открытые и закрытые порты (Стандартный ответ RFC), однако является более заметным
 - FIN/Xmas - более скрытные тесты имитирующие разрыв соединения, открытые порты игнорируют такие пакеты (ответ закрытых портов RST-ACK)
 - UDP -  в отличии от TCP тестов не устанавливает рукопожатие, открытые порты дают ответ, закрытые выдают ICMP ошибку
+  
+  Файлы записей сеансов доступны в репозитории:
+  SYN - https://github.com/slav1power/sys-pattern-homework/blob/main/SYN.pcapng
+  FIN - https://github.com/slav1power/sys-pattern-homework/blob/main/FIN.pcapng
+  Xmas - https://github.com/slav1power/sys-pattern-homework/blob/main/Xmas.pcapng
+  UDP - https://github.com/slav1power/sys-pattern-homework/blob/main/Xmas.pcapng
 
 
 
