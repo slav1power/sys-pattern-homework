@@ -98,9 +98,13 @@ Service Info: Hosts:  metasploitable.localdomain, irc.Metasploitable.LAN; OSs: U
   
   Файлы записей сеансов доступны в репозитории:
   SYN - https://github.com/slav1power/sys-pattern-homework/blob/main/SYN.pcapng
+  
   FIN - https://github.com/slav1power/sys-pattern-homework/blob/main/FIN.pcapng
+  
   Xmas - https://github.com/slav1power/sys-pattern-homework/blob/main/Xmas.pcapng
+  
   UDP - https://github.com/slav1power/sys-pattern-homework/blob/main/Xmas.pcapng
+  
 
 
 
