@@ -82,7 +82,11 @@ OS details: Linux 2.6.9 - 2.6.33
 Network Distance: 1 hop
 Service Info: Hosts:  metasploitable.localdomain, irc.Metasploitable.LAN; OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 ```
-1.2 
+1.2 Найденные уязвимости: 
+1) https://www.exploit-db.com/exploits/15449
+2) https://www.exploit-db.com/exploits/16320
+3) https://www.exploit-db.com/exploits/16922
+   
 
 
 ### Задание 2
