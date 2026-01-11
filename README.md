@@ -5,7 +5,7 @@
 ### Задание 1
 
 Логи Suricata:
-![alt text]((https://github.com/slav1power/sys-pattern-homework/blob/main/img/11.jpg))
+![alt text]([(https://github.com/slav1power/sys-pattern-homework/blob/main/img/11.jpg)](https://github.com/slav1power/sys-pattern-homework/blob/main/img/11.jpg))
 
 
 ### Задание 2
